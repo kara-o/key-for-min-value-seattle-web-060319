@@ -19,4 +19,8 @@ name_hash.each do |key, value|
 
 end
 
+if name_hash == {}
+  return nil 
+end
+
 end
